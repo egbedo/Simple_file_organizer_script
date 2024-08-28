@@ -9,3 +9,4 @@ Moved ut.PNG to Images
 Moved va.PNG to Images
 Moved var.PNG to Images
 Moved wh.PNG to Images
+Moved README.md to Others
