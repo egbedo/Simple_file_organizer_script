@@ -1,0 +1,3 @@
+Moved log.txt to Documents
+Moved organize.sh to Others
+Duplicate file log.txt found
